@@ -1,4 +1,4 @@
-## Welcome to Raevan Blog
+## Welcome to Raevan
   
 ### Expense Tracker
 Expense Tracker is a open source web application developed using EXT-JS 6. This application provides the UI to track daily expenses, generate expense reports, review spending trend.
